@@ -1,0 +1,49 @@
+
+.nombreServicios{
+    background-color: #F5F5F5;
+        
+        
+}
+.cuerpo{
+    background-color: #BA3E9F;
+}
+.redes{
+    size: 50px;
+}
+.titulo{
+    font-size: 40px;
+    text-decoration: underline; 
+    text-decoration-color: black;
+    text-decoration-style: solid;
+    text-align: center;
+}
+.main{
+        font-size: 25px;
+        font-family: "Commissioner", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        font-variation-settings:
+        "slnt" 0,
+        "FLAR" 0,
+        "VOLM" 0;
+        text-align: center;
+        margin-top: 50px;
+        margin-left: 70px;
+        margin-right: 70px;
+    }
+a{
+    text-decoration-line: none;
+    color: black;
+}
+.imageneServicios{
+    margin-top: 7px;
+}
+h1{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    
+}
+
+
+

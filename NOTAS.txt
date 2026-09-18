@@ -1,0 +1,3 @@
+/* En "Tarot evolutivo" estaria bueno agregar una pagina extra que muestre las distintas 
+cartas "Arcanos", dando a elegir al visitante una de ellas y diciéndole las energias 
+correspondientes a la carta.
